@@ -1,0 +1,1 @@
+NullPtr-Prototype-1
